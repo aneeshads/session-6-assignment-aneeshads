@@ -228,4 +228,3 @@ def test_session_6_new_input_dictionary_function_execution_test():
     for k in range(8):
         div_fn(10, 8)
     assert (test_dict['add'] == 3) and (test_dict['mul'] == 5) and (test_dict['div'] == 8), "Function not working correctly"
-
