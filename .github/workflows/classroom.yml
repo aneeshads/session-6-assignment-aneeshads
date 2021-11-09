@@ -1,4 +1,4 @@
- name: GitHub Classroom Workflow
+    name: GitHub Classroom Workflow
 
     on: [push]
 
@@ -9,5 +9,3 @@
         steps:
           - uses: actions/checkout@v2
           - uses: education/autograding@v1
-© 2021 GitHub, Inc.
-Terms
