@@ -2,7 +2,7 @@
 {
   "tests": [
     {
-      "name": "test_session5",
+      "name": "test-session-6",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest -vv",
       "input": "",
